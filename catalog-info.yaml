@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mytest
+  name: MyTestCompoent
   description: |
-    Blah Blah
+    This is a test component imported by FS
   links:
     - title: Website
       url: http://backstage.io
@@ -19,5 +19,6 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
 spec:
   type: library
-  owner: CNCF
+  owner: Faeez Shaikh
+  system: Calibo
   lifecycle: experimental

@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: MyTestCompoent
+  name: Calibo
   description: |
-    This is a test component imported by FS
+    Calibo component imported by FS
   links:
     - title: Website
       url: http://backstage.io

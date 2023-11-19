@@ -1,3 +1,3 @@
-# Demo Componet for Backstage.
+# Calibo Componet for Backstage.
 
 ## Works!
